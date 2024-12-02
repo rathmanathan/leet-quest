@@ -14,3 +14,10 @@ This repository contains my solutions to various LeetCode problems, organized by
 - Organized directory structure for easy navigation between problems and study plans.
 - Test cases included for each solution to ensure correctness.
 - Regular updates as I continue solving more problems and following different study plans.
+
+
+# LeetCode Solutions
+
+| #   | Problem       | Category  | Difficulty  | Solution    |
+|----:|---------------|-----------|-------------|-------------|
+| 1   | Two Sum       | Arrays    | Easy        |  |
