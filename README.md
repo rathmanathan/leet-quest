@@ -20,4 +20,4 @@ This repository contains my solutions to various LeetCode problems, organized by
 
 | #   | Problem       | Category  | Difficulty  | Solution    |
 |----:|---------------|-----------|-------------|-------------|
-| 1   | Two Sum       | Arrays    | Easy        |  |
+| 1   | Two Sum       | Arrays    | Easy        | [Python](src/individual_problems/arrays/easy/_001_two_sum.py) |
