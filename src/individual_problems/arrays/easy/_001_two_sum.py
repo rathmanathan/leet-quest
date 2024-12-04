@@ -16,7 +16,7 @@ class Solution:
         for i in range(len(nums)):
             num_to_lookup = target - nums[i]
             if num_to_lookup in num_hash:
-                return [i, num_hash[num_to_lookup]]
+                return [num_hash[num_to_lookup], i]
             else:
                 num_hash[nums[i]] = i
 
